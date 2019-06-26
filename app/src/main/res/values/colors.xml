@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="colorPrimary">#C5F7F7</color>
+
+        <color name="colorPrimaryDark">#106161</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="editTextBG">#DADADA</color>
+        <color name="colorClear">#FFFFFF</color>
+        <color name="transparent">#00000000</color>
+        <color name="textColor">#6e6e6e</color>
+        <color name="layoutColor">#87AFEC</color>
+
+    <color name="colorPrimary1">#F50057</color>
+    <color name="colorPrimaryDark1">#F50057</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    </resources>
+
